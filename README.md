@@ -24,7 +24,7 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=YuriyDobryanskiy&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false" alt="YuriyDobryanskiy" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriyDobryanskiy&theme=material-palenight&hide_border=false"  alt="YuriyDobryanskiy" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriyDobryanskiy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="YuriyDobryanskiy" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=YuriyDobryanskiy&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false" alt="YuriyDobryanskiy" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=YuriyDobryanskiy&theme=material-palenight&mode=weekly"  alt="YuriyDobryanskiy" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriyDobryanskiy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="YuriyDobryanskiy" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=YuriyDobryanskiy&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
