@@ -31,6 +31,14 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue)
 
+<!-- Begin: HubSpot Academy - SEO Badge -->
+<div class='academy-badge'>
+<a href='https://app-eu1.hubspot.com/academy/achievements/znnrbq1s/en/1/yuriy-dobryanskiy/seo' title='SEO'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/e286479620fc42ff9632363b98803aee.png' width="250" />
+</a>
+</div>
+<!-- End: HubSpot Academy - SEO Badge -->
+
 <!--**🐱 My GitHub Data** 
 
 > 🏆 1 Contributions in the Year 2024
@@ -92,7 +100,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 -->
 
 
- Last Updated on 15/02/2024
+ Last Updated on 10/03/2024
 <!--END_SECTION:waka-->
 
 <!--
