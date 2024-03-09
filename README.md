@@ -29,7 +29,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=YuriyDobryanskiy&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C735%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2046%20mins-blue)
 
 <!-- Begin: HubSpot Academy - SEO Badge -->
 <div class='academy-badge'>
